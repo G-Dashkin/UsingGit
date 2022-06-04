@@ -18,8 +18,6 @@ public class MainActivity extends AppCompatActivity {
         chengingText = findViewById(R.id.chengingText);
         textButton = findViewById(R.id.textButton);
 
-        String var = "hello Git xxxxxxxxxxxxxxxxxxxxxxxx";
-
 //        textButton.setOnClickListener(new View.OnClickListener() {
 //
 //            private final String new_text = "Hello java!";
