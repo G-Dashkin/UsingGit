@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         textButton = findViewById(R.id.textButton);
 
         String firebase = "Hello firebase";
+        String new_string = "Haw are you?";
 
 //        textButton.setOnClickListener(new View.OnClickListener() {
 //
